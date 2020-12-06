@@ -1,0 +1,22 @@
+{
+  "name": "anti-link-discord",
+  "version": "1.0.0",
+  "description": "Use this module to filter out links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "filter",
+    "discord",
+    "anti-link",
+    "link",
+    "discordbot",
+    "discord-bot"
+  ],
+  "author": "ookamicodes",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
