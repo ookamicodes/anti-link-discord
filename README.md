@@ -1,12 +1,13 @@
 # Anti-Link-Discord
 
- <a href="https://nodei.co/npm/anti-swear-words-packages-discord/"><img src="https://nodei.co/npm/anti-swear-words-packages-discord.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+ <a href="https://nodei.co/npm/anti-link-discord/"><img src="https://nodei.co/npm/anti-link-discord.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 
-<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/ookamicodes/anti-swear-words-packages"> <img alt="npm" src="https://img.shields.io/npm/v/anti-swear-words-packages-discord"> <img alt="npm" src="https://img.shields.io/npm/dw/anti-swear-words-packages-discord"> <img alt="npm" src="https://img.shields.io/npm/dt/anti-swear-words-packages-discord">
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/ookamicodes/anti-link-discord"> <img alt="npm" src="https://img.shields.io/npm/v/anti-link-discord"> <img alt="npm" src="https://img.shields.io/npm/dw/anti-link-discord"> <img alt="npm" src="https://img.shields.io/npm/dt/anti-link-discord">
 
 
 Add the Anti Link Package in your bot to filter out links.
 If you need help or have suggestions, please look in our Discord server. [CLICK ME TO JOIN](https://discord.gg/FGzCdtP)
+ß
 ## Install
 
 ```css
